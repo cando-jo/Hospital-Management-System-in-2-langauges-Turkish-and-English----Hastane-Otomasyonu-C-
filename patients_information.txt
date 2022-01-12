@@ -1,0 +1,20 @@
+
+<<<<<<<<< Patient Record >>>>>>>>
+Ad: Qusai
+Soyad: Gazawy
+TC Numarasi: 1
+Muayene bolumu: Gogus Hastaliklari
+Muayane Ucreti: 200
+Yas: 2
+Randevu tarihi: 2/13/2022
+Randevu saati: 15:40
+
+<<<<<<<<< Patient Record >>>>>>>>
+Ad: John
+Soyad: Smith
+TC Numarasi: 2
+Muayene bolumu: Enfeksiyon Hastaliklari
+Sigortasi var, ucret alinmadi.
+Yas: 2
+Randevu tarihi: 2/21/2022
+Randevu saati: 09:00
