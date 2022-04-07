@@ -13,3 +13,4 @@ Merhabalar, bu Hastane Otomasyonunu iki dilde yaptim, hem Inglizce hem de Turkce
 Programda iki kullanici bulunmaktadir, biri Sekreter digeri Doktor. Ikisinin de ayri panelleri vardir. Doktor ve Sekreterin ortak olan ve olmayan islemleri var. Mesela 
 Sekreter hasta kaydi olusturabiliyorken doktor onu olusturamiyor, Doktor da recete yazabiliyorken sekreter recete yazamiyor. Ama ikisi de mesela istedigi hasta bilgisini
 TC ile ekrana yazdirabilir, veya sigortasiz hastalari goruntuleyebilir. Tum hasta kayitlari bir .txt dosyasina kaydedilecektir.
+![Hospital](https://user-images.githubusercontent.com/92310650/162216239-5b4959ab-9f7e-4148-9914-e12ee2ebb060.PNG)
