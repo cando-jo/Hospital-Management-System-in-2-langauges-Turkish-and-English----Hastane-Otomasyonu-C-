@@ -12,4 +12,4 @@ Saf C++ ile yazilmistir
 Merhabalar, bu Hastane Otomasyonunu iki dilde yaptim, hem Inglizce hem de Turkce. Dili main menu'den giriste secebilirsiniz.
 Programda iki kullanici bulunmaktadir, biri Sekreter digeri Doktor. Ikisinin de ayri panelleri vardir. Doktor ve Sekreterin ortak olan ve olmayan islemleri var. Mesela 
 Sekreter hasta kaydi olusturabiliyorken doktor onu olusturamiyor, Doktor da recete yazabiliyorken sekreter recete yazamiyor. Ama ikisi de mesela istedigi hasta bilgisini
-TC ile ekrana yazdirabilir, veya sigortasiz hastalari goruntuleyebilir.
+TC ile ekrana yazdirabilir, veya sigortasiz hastalari goruntuleyebilir. Tum hasta kayitlari bir .txt dosyasina kaydedilecektir.
